@@ -1,6 +1,13 @@
-# CS50
+# Some C testing program
 
 Creditcard problem
+
+## Compile
+
+Compile the program by running
+```bash
+make
+```
 
 ## Test files
 
