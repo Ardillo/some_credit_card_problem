@@ -16,14 +16,14 @@ test_length.txt
 
 test_syntax.txt
  - 1 VALID
- - 1 Visa
+   - 1 Visa
 
 test_paypal.txt
  - 16 VALID
- - 3 Visa
- - 5 Mastercard
- - 3 American Express
- - 5 unknown
+   - 3 Visa
+   - 5 Mastercard
+   - 3 American Express
+   - 5 unknown
 
 Execute the testfiles with
 ```bash
